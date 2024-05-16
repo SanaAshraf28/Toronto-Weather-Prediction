@@ -1,1 +1,1 @@
-# Toronto-Weather-Prediction
+# Toronto Weather Prediction
